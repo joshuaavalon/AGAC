@@ -1,6 +1,6 @@
 # Archiving Google Arts & Culture
 
-![](https://img.shields.io/github/license/joshuaavalon/AGAC.svg)
+[![](https://img.shields.io/github/license/joshuaavalon/AGAC.svg)](https://github.com/joshuaavalon/AGAC/blob/master/LICENSE)
 
 Python script to scrap images from Google Arts & Culture. This is a request from [r/DataHoarder](https://www.reddit.com/r/DataHoarder/comments/78h9ck/archiving_google_arts_culture_paintings/).
 
